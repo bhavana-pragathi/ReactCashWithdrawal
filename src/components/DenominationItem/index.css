@@ -1,0 +1,11 @@
+.button {
+  border-radius: 3px;
+  background-color: #382f5a;
+  color: #c4c4c4;
+  font-size: 20px;
+  height: 36px;
+  width: 150px;
+  border-color: #c4c4c4;
+  border-width: 1px;
+  margin: 5px;
+}
