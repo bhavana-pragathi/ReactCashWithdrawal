@@ -5,7 +5,7 @@ const DenominationItem = props => {
   const {value, id} = denominationDetails
 
   const onCut = () => {
-    onCutAmount(id)
+    onCutAmount(value)
   }
 
   return (
